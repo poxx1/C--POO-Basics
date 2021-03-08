@@ -1,0 +1,13 @@
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.exe
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.deps.json
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.runtimeconfig.json
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.runtimeconfig.dev.json
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.dll
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.pdb
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.csprojAssemblyReference.cache
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.AssemblyInfoInputs.cache
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.AssemblyInfo.cs
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.csproj.CoreCompileInputs.cache
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.dll
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.pdb
+C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.genruntimeconfig.cache
