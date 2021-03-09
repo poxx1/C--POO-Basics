@@ -11,7 +11,6 @@ C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Bas
 C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.dll
 C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.pdb
 C:\Users\Poxi\source\repos\POO-Basics\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.genruntimeconfig.cache
-C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.csprojAssemblyReference.cache
 C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.AssemblyInfoInputs.cache
 C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.AssemblyInfo.cs
 C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.csproj.CoreCompileInputs.cache
@@ -24,3 +23,4 @@ C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\bin\Debug
 C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.dll
 C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\bin\Debug\netcoreapp3.1\POO-Basics.pdb
 C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.genruntimeconfig.cache
+C:\Users\julian.lastra\Documents\UAI\UAI-POO-master\UAI-POO\POO-Basics\obj\Debug\netcoreapp3.1\POO-Basics.csprojAssemblyReference.cache
